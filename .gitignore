@@ -1,0 +1,12 @@
+.DS_Store
+
+# Ignore everything
+*
+
+# Except for
+!.gitignore
+!**.R
+!**.py
+
+# ... even if they are in subdirectories
+# ^^ reconsider this
